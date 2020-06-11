@@ -1,16 +1,15 @@
-# flutter_weather_browser
 
-A new Flutter project.
+# Flutter Weather Browser
+https://hectoraguero.github.io/flutter_weather
 
-## Getting Started
+***Captura de Pantalla***
 
-This project is a starting point for a Flutter application.
+[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/OnAhrsL.png)]()
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Proyecto de Ejemplo utilizando Flutter y Github Pages
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [x] Acceder a la ubicacion del dispositivo
+- [ ] Layout Responsivo
+- [ ] Acceder a APIs de Clima
+- [ ] Animaciones
